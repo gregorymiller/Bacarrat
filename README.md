@@ -1,3 +1,3 @@
-# Bacarrat
+# Baccarat
 
-This is a simple bacarrat game for android. Resources not included.
+This is a simple baccarat game for android. Resources not included.
