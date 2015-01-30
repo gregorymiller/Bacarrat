@@ -17,8 +17,8 @@ public class BankerAI {
 		// Populate play rules for dealer hand values of 4-6
 		
 		/* 
-		 * 		Player third card
-		 * 		0  1  2  3  4  5  6  7  8  9
+		 * Player third card
+		 * 	0  1  2  3  4  5  6  7  8  9
 		 * 6	S, S, S, S, S, S, H, H, S, S
 		 * 5	S, S, S, S, H, H, H, H, S, S
 		 * 4	S, S, H, H, H, H, H, H, S, S
